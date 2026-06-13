@@ -15,10 +15,11 @@ Thanks for using DiceBear.
 
 File an issue in the repo that matches the problem:
 
-- Rendering bugs, core API, CLI, PHP port, docs site, editor →
+- Rendering bugs, core API, CLI, language ports (PHP, Python, Rust, Go,
+  Dart), docs site, editor →
   [`dicebear/dicebear`](https://github.com/dicebear/dicebear/issues)
 - Avatar style art or definition fixes →
-  [`dicebear/definitions`](https://github.com/dicebear/definitions/issues)
+  [`dicebear/styles`](https://github.com/dicebear/styles/issues)
 - JSON Schema for definitions or options →
   [`dicebear/schema`](https://github.com/dicebear/schema/issues)
 - Self-hosted HTTP API →
@@ -46,5 +47,5 @@ the main repo.
 
 DiceBear itself is MIT-licensed. Avatar style artwork may carry separate
 licenses; check the `LICENSE.md` in
-[`dicebear/definitions`](https://github.com/dicebear/definitions) or the
+[`dicebear/styles`](https://github.com/dicebear/styles) or the
 metadata on the individual style before using it commercially.
