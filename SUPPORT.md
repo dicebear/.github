@@ -24,8 +24,8 @@ File an issue in the repo that matches the problem:
   [`dicebear/schema`](https://github.com/dicebear/schema/issues)
 - Self-hosted HTTP API →
   [`dicebear/api`](https://github.com/dicebear/api/issues)
-- The Figma exporter plugin →
-  [`dicebear/exporter-plugin-for-figma`](https://github.com/dicebear/exporter-plugin-for-figma/issues)
+- DiceBear Studio (the Figma plugin) →
+  [`dicebear/studio`](https://github.com/dicebear/studio/issues)
 
 If you are not sure which repo applies, file the issue in
 [`dicebear/dicebear`](https://github.com/dicebear/dicebear/issues) and we
